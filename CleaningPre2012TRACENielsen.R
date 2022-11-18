@@ -3,7 +3,7 @@
 # The original cleaning steps where performed using SAS
 # Previous steps are not necessary for the data in 
 # dt.TRACE.data.final the complete data 
-library(dat.table)
+library(data.table)
 library(dplyr)
 
 
