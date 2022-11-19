@@ -5,7 +5,7 @@
 # dt.TRACE.data.final the complete data 
 # Comments with a leading * are directly from the original code
 
-library(dat.table)
+library(data.table)
 library(dplyr)
 
 dt.TRACE.Post.data.final
